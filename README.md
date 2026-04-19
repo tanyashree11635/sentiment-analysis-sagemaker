@@ -17,10 +17,6 @@ Python, PyTorch, AWS SageMaker, HTML, JavaScript
 - model.py → LSTM model
 - index.html → frontend UI
   
-## Architecture
-
-![Diagram](Web App Diagram.svg)
-
 ## Features
 - AWS SageMaker deployment
 - LSTM sentiment model
