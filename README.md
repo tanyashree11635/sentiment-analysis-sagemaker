@@ -16,3 +16,12 @@ Python, PyTorch, AWS SageMaker, HTML, JavaScript
 - predict.py → inference logic
 - model.py → LSTM model
 - index.html → frontend UI
+  
+## Architecture
+
+![Diagram](Web App Diagram.svg)
+
+## Features
+- AWS SageMaker deployment
+- LSTM sentiment model
+- Web interface for prediction
